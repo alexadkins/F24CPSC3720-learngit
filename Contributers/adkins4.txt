@@ -1,3 +1,2 @@
-Name: Chester Chua
-I am a computer science student.
-live laugh love hasbulla.
+Name: Dr. Alex
+Something interesting
