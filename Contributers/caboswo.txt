@@ -1,0 +1,3 @@
+My name is Chase Bosworth and I am a Junior CS major.
+Honestly screw git on terminal. GitHub Desktop on top.
+But Im doing this assigment on terminal just for you Dr. Adkins :).
